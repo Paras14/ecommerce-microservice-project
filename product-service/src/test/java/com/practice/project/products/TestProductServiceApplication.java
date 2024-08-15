@@ -1,4 +1,4 @@
-package com.practice.project.product_service;
+package com.practice.project.products;
 
 import org.springframework.boot.SpringApplication;
 

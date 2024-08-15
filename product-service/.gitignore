@@ -31,3 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Ignore MongoDB data files
+/*.log
+/*.wt
+/*.turtle
+/*.lock
+/*.Preplog
+/diagnostic.data/
+/data/
